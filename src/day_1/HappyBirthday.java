@@ -5,6 +5,6 @@ public class HappyBirthday {
 
         System.out.println("Happy Birthday");
         
-       // edited in github
+       System.out.println("Edited in github");
     }
 }
